@@ -1,7 +1,20 @@
-# Vue 3 + Vite
+# Vue Todo App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## -- My Third Vue Project --
 
-## Recommended IDE Setup
+This is a simple Vue.js todo application built using the **Composition API**. Users can create, edit, and delete todos categorized as either "Work" or "Personal".
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Features
+
+- **Create Todo:** Users can add new todos with a content description and category selection.
+- **Edit Todo:** Todos can be edited inline by clicking on the content area.
+- **Delete Todo:** Users can remove todos from the list.
+- **Toggle Todo Status:** Todos can be marked as completed or incomplete by clicking on the checkbox.
+
+## Usage
+
+- **Name Input:** Enter your name in the greeting section.
+- **Create Todo:** Fill in the todo content and select a category, then click "Add todo".
+- **Edit Todo:** Click on the todo content to edit it inline.
+- **Delete Todo:** Click the "Erase" button to remove a todo from the list.
+- **Toggle Todo Status:** Click on the checkbox to mark a todo as completed or incomplete.
